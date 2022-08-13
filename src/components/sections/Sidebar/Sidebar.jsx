@@ -56,16 +56,18 @@ const socials = [
 
 const Sidebar = () => {
   return (
+
+    
     <aside className="sticky top-0 bg-white md:mx-8 lg:mx-4 mb-8 p-6 shadow-md rounded-md -mt-40">
       <div className="w-24 h-24 rounded-md overflow-hidden mx-auto mb-5">
-        <img src={profile} alt="shafiqhammad" className="w-full" />
+        <img src={profile} alt="shafiqhammad" className="w-full rounded-full" />
       </div>
       <div className="text-center">
         <h1 className="text-xl text-gray-800 font-bold mb-1">John Doe</h1>
         <p className="text-sm text-gray-400 mb-3">
           Frontend Web Developer at
-          <a href="#0" className="text-purple-600 pl-1">
-            Abc Company
+          <a href="https://www.hubrootech.com.ng/" className="text-purple-600 pl-1">
+            Hubroot Technologies
           </a>
         </p>
         <a
@@ -86,10 +88,10 @@ const Sidebar = () => {
           About Me
         </h3>
         <p className="text-gray-400 text font-light leading-relaxed">
-          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-          nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-          sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
-          rebum. Stet clita kasd gubergren, no sea takimata sanctus.
+          Front-end developer with 4+ years of experience designing and building responsive web design and mobile apps for
+          diverse industry organisation. Proficient with CSS and JavaScript Frameworks, with extensive knowledge of user psychology.
+          Testing multiple web-based applications incorporating a range of technologies and combining strong technical skills to
+          excel as a Front-End Developer.
         </p>
       </div>
     </aside>
