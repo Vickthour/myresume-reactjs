@@ -1,10 +1,7 @@
 import React from "react";
 import {
-  FaBehance,
-  FaDribbble,
-  FaFacebookF,
+  FaMailBulk,
   FaGithub,
-  FaInstagram,
   FaLinkedinIn,
   FaSkype,
   FaTwitter,
@@ -14,43 +11,28 @@ import profile from "../../../images/profile.jpg";
 const socials = [
   {
     id: 1,
-    icon: <FaFacebookF />,
-    link: "#0",
+    icon: <FaMailBulk />,
+    link: "mailto:olabanjivictor37@gmail.com",
   },
   {
     id: 2,
     icon: <FaGithub />,
-    link: "#0",
+    link: "https://github.com/vickthour",
   },
   {
     id: 3,
     icon: <FaLinkedinIn />,
-    link: "#0",
+    link: "https://www.linkedin.com/in/victor-olabanji/",
   },
   {
     id: 4,
-    icon: <FaInstagram />,
-    link: "#0",
+    icon: <FaSkype />,
+    link: "https://join.skype.com/invite/OnT3a9gdjyNs",
   },
   {
     id: 5,
-    icon: <FaBehance />,
-    link: "#0",
-  },
-  {
-    id: 6,
-    icon: <FaDribbble />,
-    link: "#0",
-  },
-  {
-    id: 7,
-    icon: <FaSkype />,
-    link: "#0",
-  },
-  {
-    id: 7,
     icon: <FaTwitter />,
-    link: "#0",
+    link: "https://twitter.com/vickthour2",
   },
 ];
 
@@ -63,15 +45,15 @@ const Sidebar = () => {
         <img src={profile} alt="shafiqhammad" className="w-full rounded-full" />
       </div>
       <div className="text-center">
-        <h1 className="text-xl text-gray-800 font-bold mb-1">John Doe</h1>
+        <h1 className="text-xl text-gray-800 font-bold mb-1">Victor Olabanji</h1>
         <p className="text-sm text-gray-400 mb-3">
-          Frontend Web Developer at
+          Front-End Developer at
           <a href="https://www.hubrootech.com.ng/" className="text-purple-600 pl-1">
             Hubroot Technologies
           </a>
         </p>
-        <a
-          href="#0"
+        <a target="_blank" rel="noreferrer"
+          href="https://drive.google.com/file/d/1rv_AF2v_yesy7YNoA6o-4lGGbc6R4kI5/view?usp=sharing"
           className="inline-block mb-3 rounded bg-purple-600 text-center border-0 py-2 px-6 text-white leading-7 tracking-wide hover:bg-purple-800"
           download="Resume"
         >

@@ -1,24 +1,52 @@
 import React from "react";
 
-const SkillItem = (props) => {
-  const { title, percentage } = props.skill;
+const SkillItem = () => {
+  // const { title, percentage } = props.skill;
   return (
-    <div className="w-full md:w-1/2">
-      <div className="mb-4 md:mx-4">
-        <div className="flex justify-between items-center mb-1">
-          <h5 className="text-md text-gray-400 font-light">{title}</h5>
-          <span className="text-md text-purple-600 font-bold">
-            {percentage}
-          </span>
-        </div>
-        <div className="w-full bg-purple-200 relative h-2 rounded">
-          <div
-            className="absolute h-full left-0 top-0 bg-purple-600 rounded"
-            style={{ width: `${percentage}` }}
-          ></div>
-        </div>
-      </div>
-    </div>
+    <div className="w-full">
+          <div className="md:mx-4">
+            <h3 className="text-2xl text-gray-800 font-bold mb-4">Skills</h3>
+          </div>
+          <span className="inline-flex items-center gap-1.5 py-1.5 px-3 rounded-md text-sm text-md font-medium bg-blue-100 text-blue-800">Languages</span>
+          <ul className="list-disc list-inside text-gray-900 dark:text-gray-200">
+            <li className="inline-block relative pr-8">HTML</li>
+            <li className="inline-block relative pr-8">CSS</li>
+            <li className="inline-block relative pr-8">JavaScript</li>
+            <li className="inline-block relative pr-8">TypeScript</li>
+            <li className="inline-block relative pr-8">PHP</li>
+          </ul>
+          <hr/><br/>
+          <span className="inline-flex items-center gap-1.5 py-1.5 px-3 rounded-md text-sm text-md font-medium bg-blue-100 text-blue-800">Libraries</span>
+          <br/>
+          <ul className="list-disc list-inside text-gray-900 dark:text-gray-200">
+            <li className="inline-block relative pr-8">React</li>
+            <li className="inline-block relative pr-8">React-Redux</li>
+            <li className="inline-block relative pr-8">Laravel</li>
+          </ul>
+          <hr/><br/>
+          <span className="inline-flex items-center gap-1.5 py-1.5 px-3 rounded-md text-sm text-md font-medium bg-blue-100 text-blue-800">Frameworks</span>
+          <br/>
+          <ul className="list-disc list-inside text-gray-900 dark:text-gray-200">
+            <li className="inline-block relative pr-8">TailwindCSS</li>
+            <li className="inline-block relative pr-8">React Native</li>
+            <li className="inline-block relative pr-8">BootStrap</li>
+          </ul>
+          <hr/><br/>
+          <span className="inline-flex items-center gap-1.5 py-1.5 px-3 rounded-md text-sm text-md font-medium bg-blue-100 text-blue-800">Tools & System</span>
+          <br/>
+          <ul className="list-disc list-inside text-gray-900 dark:text-gray-200">
+            <li className="inline-block relative pr-8">Git</li>
+            <li className="inline-block relative pr-8">NPM</li>
+            <li className="inline-block relative pr-8">VScode</li>
+          </ul><hr/><br/>
+          <span className="inline-flex items-center gap-1.5 py-1.5 px-3 rounded-md text-sm text-md font-medium bg-blue-100 text-blue-800">CMS</span>
+          <br/>
+          <ul className="list-disc list-inside text-gray-900 dark:text-gray-200">
+            <li className="inline-block relative pr-8">WordPress</li>
+            <li className="inline-block relative pr-8">Wix</li>
+            <li className="inline-block relative pr-8">PageCarton</li>
+          </ul>
+        </div> 
   );
 };
 

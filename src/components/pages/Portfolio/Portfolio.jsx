@@ -12,7 +12,7 @@ const portfolioData = [
     title: "Space Bootstrap 5 Multipurpose Template",
     link: "#0",
     description:
-      "Lorem ipsum dolor sit aconsect dipisicing elit, sed do eiusmod to incididunt uabore etdolore magna aliqua.",
+      "",
   },
   {
     id: 2,
@@ -20,7 +20,7 @@ const portfolioData = [
     title: "eCommerce HTML Bootstrap 5 UI Kit",
     link: "#0",
     description:
-      "Lorem ipsum dolor sit aconsect dipisicing elit, sed do eiusmod to incididunt uabore etdolore magna aliqua.",
+      "",
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ const portfolioData = [
     title: "Basic – Tailwind CSS Template",
     link: "#0",
     description:
-      "Lorem ipsum dolor sit aconsect dipisicing elit, sed do eiusmod to incididunt uabore etdolore magna aliqua.",
+      "",
   },
   {
     id: 4,
@@ -36,7 +36,7 @@ const portfolioData = [
     title: "Gearix Car repair App",
     link: "#0",
     description:
-      "Lorem ipsum dolor sit aconsect dipisicing elit, sed do eiusmod to incididunt uabore etdolore magna aliqua.",
+      "",
   },
 ];
 

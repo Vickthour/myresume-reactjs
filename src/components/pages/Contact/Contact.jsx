@@ -2,11 +2,12 @@ import React from "react";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
+
 const Contact = () => {
   return (
     <section className="pb-10">
       <div className="flex flex-wrap md:px-4">
-        <form className="p-8 md:mx-4 bg-white rounded-md shadow-md">
+        <form className="p-8 md:mx-4 bg-white rounded-md shadow-md" name="myForm" method="POST">
           <div className="m-3">
             <h3 className="text-2xl text-gray-800 font-bold mb-6">
               Get in Touch
@@ -75,3 +76,5 @@ const Contact = () => {
 };
 
 export default Contact;
+
+
