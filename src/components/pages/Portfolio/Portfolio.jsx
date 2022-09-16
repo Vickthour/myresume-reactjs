@@ -6,26 +6,26 @@ import image4 from "../../../images/portfolio/project-04.jpg";
 import PortfolioItem from "./PortfolioItem";
 
 const portfolioData = [
-  {
-    id: 1,
-    image: image1,
-    title: "Space Bootstrap 5 Multipurpose Template",
-    link: "#0",
-    description:
-      "",
-  },
-  {
-    id: 2,
-    image: image2,
-    title: "eCommerce HTML Bootstrap 5 UI Kit",
-    link: "#0",
-    description:
-      "",
-  },
+  // {
+  //   id: 1,
+  //   image: image1,
+  //   title: "Space Bootstrap 5 Multipurpose Template",
+  //   link: "#0",
+  //   description:
+  //     "",
+  // },
+  // {
+  //   id: 2,
+  //   image: image2,
+  //   title: "eCommerce HTML Bootstrap 5 UI Kit",
+  //   link: "#0",
+  //   description:
+  //     "",
+  // },
   {
     id: 3,
     image: image3,
-    title: "Basic – Tailwind CSS Template",
+    title: "Basic – Tailwind CSS freestyle",
     link: "#0",
     description:
       "",
