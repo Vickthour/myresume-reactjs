@@ -53,7 +53,7 @@ const Sidebar = () => {
           </a>
         </p>
         <a target="_blank" rel="noreferrer"
-          href="https://drive.google.com/file/d/1rv_AF2v_yesy7YNoA6o-4lGGbc6R4kI5/view?usp=sharing"
+          href="https://drive.google.com/file/d/1X7EoISQGVXJTqqbLUyAcIfAkLhXu3LwA/view?usp=sharing"
           className="inline-block mb-3 rounded bg-purple-600 text-center border-0 py-2 px-6 text-white leading-7 tracking-wide hover:bg-purple-800"
           download="Resume"
         >
@@ -70,7 +70,7 @@ const Sidebar = () => {
           About Me
         </h3>
         <p className="text-gray-400 text font-light leading-relaxed">
-          Front-End developer with 3 years of experience designing and building responsive web design and mobile apps for
+          Front-End developer with 2 years of experience designing and building responsive web design and mobile apps for
           diverse industry organisation. Proficient with CSS and JavaScript Frameworks, with extensive knowledge of user psychology.
           Testing multiple web-based applications incorporating a range of technologies and combining strong technical skills to
           excel as a Front-End Developer.
