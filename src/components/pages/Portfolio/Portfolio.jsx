@@ -11,12 +11,12 @@ const portfolioData = [
     image: image1,
     title: "HTML & CSS website",
     link: "https://sadiqisu.netlify.app/",
-    description:"A personal website",
+    description:"A portfolio website (Bootstrap & Jquery)",
   },
   {
     id: 2,
     image: image2,
-    title: "Cryptoverse",
+    title: "Cryptoverse (React,Reduxjs toolkit,bootstrap)'",
     link: "https://crypto-analyze.netlify.app/",
     description:
       "Cryptocurrency Analysis Application. Offers a nice range of cryptocurrencies and a simple-to-use app experience",
@@ -24,9 +24,9 @@ const portfolioData = [
   {
     id: 3,
     image: image3,
-    title: "wield frontend (React)",
+    title: "Wield frontend (React & nextjs)",
     link: "https://wield-frontend-pi.vercel.app/",
-    description:"",
+    description:"Connecting People brand and influencing",
   },
   {
     id: 4,
