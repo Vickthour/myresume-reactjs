@@ -15,24 +15,10 @@ const blogData = [
   },
   {
     id: 2,
-    image: image2,
-    title: "15+ Top Sources to Download Free Stock Photos",
-    description:
-      "Wanna decorate your blog with photos? But don't have any photographic skills or fees to pay for photos?",
-  },
-  {
-    id: 3,
-    image: image3,
-    title: "15+ Free Startup Landing Page and Web Templates",
+    image: image4,
+    title: "Why Landing pages?",
     description:
       "A landing page is a page designed to turn visitors into leads. It is separate from other pages on your...",
-  },
-  {
-    id: 4,
-    image: image4,
-    title: "10+ Sources to Download Free SVG Illustrations",
-    description:
-      "There is no doubt about the importance of Scalable Vector Graphics illustration today.",
   },
 ];
 
