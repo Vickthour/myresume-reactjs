@@ -14,7 +14,7 @@ const BlogItem = (props) => {
         </div>
         <h3>
           <a
-            href="#0"
+            href="https://vickthour.medium.com/user-centred-design-ad2316fec4d5"
             className="block text-lg font-medium text-gray-800 hover:text-purple-600 mb-2"
           >
             {title}
