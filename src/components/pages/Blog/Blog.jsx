@@ -9,9 +9,9 @@ const blogData = [
   {
     id: 1,
     image: image1,
-    title: "20 Best Prototyping and Design Tools for Product Design",
+    title: "My thought about User-centred design",
     description:
-      "Prototyping Tool Prototyping is a process that enables faster creativity and effective experimentation for the product team.",
+      "User-centered design focuses on how users interact with technology.",
   },
   {
     id: 2,
