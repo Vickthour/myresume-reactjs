@@ -19,7 +19,7 @@ const portfolioData = [
     title: "Cryptoverse (React| Reduxjs toolkit | bootstrap)",
     link: "https://crypto-analyze.netlify.app/",
     description:
-      "Cryptocurrency Analysis Application. Offers a nice range of cryptocurrencies and a simple-to-use app experience",
+      "Cryptocurrency Analysis Application Offers a wide range of cryptocurrencies real time infoormation with a simple-to-use app experience.",
   },
   {
     id: 3,
