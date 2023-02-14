@@ -53,7 +53,7 @@ const Sidebar = () => {
           </a>
         </p>
         <a target="_blank" rel="noreferrer"
-          href="https://drive.google.com/file/d/1qvPrtAVAx7uy_5X4aOvG-BXEm_tYUCo1/view?usp=sharing"
+          href="https://drive.google.com/file/d/18IeR8-ug9Dm3B0nLa_6rYHIB5e94xYy5/view?usp=sharing"
           className="inline-block mb-3 rounded bg-purple-600 text-center border-0 py-2 px-6 text-white leading-7 tracking-wide hover:bg-purple-800"
           download="Resume"
         >
