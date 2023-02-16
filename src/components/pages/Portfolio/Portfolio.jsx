@@ -19,7 +19,7 @@ const portfolioData = [
     title: "Cryptoverse (React| Reduxjs toolkit | bootstrap)",
     link: "https://crypto-analyze.netlify.app/",
     description:
-      "Cryptocurrency Analysis Application Offers a wide range of cryptocurrencies real time infoormation with a simple-to-use app experience.",
+      "Cryptocurrency Analysis Application offers a wide range of cryptocurrencies real time infoormation with a simple-to-use app experience.",
   },
   {
     id: 3,
@@ -31,9 +31,9 @@ const portfolioData = [
   {
     id: 4,
     image: image4,
-    title: "Gearix Car repair App",
-    link: "#0",
-    description:"",
+    title: "Doruba Technologies",
+    link: "https://doruba.netlify.app/",
+    description:"Expert in design and manufacture of Agro-allied processing machineries and equipments.",
   },
 ];
 
