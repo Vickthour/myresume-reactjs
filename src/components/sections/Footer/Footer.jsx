@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="bg-white p-4 absolute bottom-0 left-0 w-full">
       <div className="container px-4">
         <p className="text-sm text-gray-400 text-center">
-          Surplus+  © { date.getFullYear()}
+          Vickthour  © { date.getFullYear()}
         </p>
       </div>
     </footer>
