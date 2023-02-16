@@ -6,7 +6,7 @@ import BlogItem from "./BlogItem";
 const blogData = [
   {
     id: 1,
-    image: image1,
+    image: image2,
     title: "My thought about User-centred design",
     description:
       "User-centered design focuses on how users interact with technology.",
@@ -16,7 +16,7 @@ const blogData = [
     image: image4,
     title: "Why Landing pages?",
     description:
-      "A landing page is a page designed to turn visitors into leads. It is separate from other pages on your...",
+      "A landing page is a page designed to turn visitors into leads. It is separate from other pages on your.",
   },
 ];
 
