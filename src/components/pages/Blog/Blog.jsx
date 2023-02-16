@@ -1,7 +1,5 @@
 import React from "react";
-import image1 from "../../../images/blog/blog-01.jpg";
 import image2 from "../../../images/blog/blog-02.jpg";
-import image3 from "../../../images/blog/blog-03.jpg";
 import image4 from "../../../images/blog/blog-04.jpg";
 import BlogItem from "./BlogItem";
 
