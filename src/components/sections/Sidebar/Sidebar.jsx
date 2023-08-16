@@ -70,8 +70,8 @@ const Sidebar = () => {
           About Me
         </h3>
         <p className="text-gray-400 text font-light leading-relaxed">
-          Front-End developer with 2 years of experience designing and building responsive web design and mobile apps for
-          diverse industry organisation. Proficient with CSS, JavaScript Libraries and Frameworks, with extensive knowledge of user psychology.
+          FrontEnd engineer with 3 years of experience designing and building responsive web design and mobile apps for
+          diverse industry organization. Proficient with CSS, JavaScript Libraries, and Frameworks, with extensive knowledge of user psychology.
           Experienced in creating and managing dynamic web pages, integrating them with back-end systems, and using analytics to optimize the user experience.
         </p>
       </div>
